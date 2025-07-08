@@ -1,4 +1,4 @@
-// MovablePoint.java
+
 public class MovablePoint extends Point {
     private float xSpeed;
     private float ySpeed;
