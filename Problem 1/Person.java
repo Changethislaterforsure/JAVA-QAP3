@@ -1,4 +1,4 @@
-// Person.java
+
 public class Person {
     protected String myName;   // name of the person
     protected int myAge;       // person’s age
