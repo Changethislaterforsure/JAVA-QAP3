@@ -1,4 +1,4 @@
-// Shape.java
+
 public abstract class Shape {
     protected String name;
 
